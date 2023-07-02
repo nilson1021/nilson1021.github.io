@@ -8,18 +8,9 @@
     <language>zh-tw</language>
     <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://nilson1021.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://nilson1021.github.io/blog/post-1/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://nilson1021.github.io/blog/post-1/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title></title>
+      <title>東部旅行</title>
       <link>https://nilson1021.github.io/blog/travel1120622-25/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://nilson1021.github.io/blog/travel1120622-25/</guid>
       <description>東部旅行 這次到東部旅遊的起意非常臨時。
@@ -27,7 +18,17 @@
 在網路上草草找了幾篇攻略+詢問曾到東部遊玩的朋友後，就出發流浪到東部了。
 一個人流浪，也就沒必要拍甚麼照片留下紀念了，所以拍的照片很少
 By the way這個網站的出現，跟突然想去東部流浪的原因一樣莫名其妙，等過段時間後，就會拿掉。
-1120622</description>
+1120622
+早上搭最早班的區間從宜蘭到花蓮，再轉搭到臺東關山站</description>
+    </item>
+    
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://nilson1021.github.io/blog/post-1/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://nilson1021.github.io/blog/post-1/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
   </channel>

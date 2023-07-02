@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nilson&#39;s Murmur</title>
-    <link>https://nilson1021.github.io/</link>
-    <description>Recent content on Nilson&#39;s Murmur</description>
+    <title>流浪 on Nilson&#39;s Murmur</title>
+    <link>https://nilson1021.github.io/categories/%E6%B5%81%E6%B5%AA/</link>
+    <description>Recent content in 流浪 on Nilson&#39;s Murmur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 02 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nilson1021.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nilson1021.github.io/categories/%E6%B5%81%E6%B5%AA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>東部旅行</title>
       <link>https://nilson1021.github.io/blog/travel1120622-25/</link>
@@ -20,15 +20,6 @@
 By the way這個網站的出現，跟突然想去東部流浪的原因一樣莫名其妙，等過段時間後，就會拿掉。
 1120622
 早上搭最早班的區間從宜蘭到花蓮，再轉搭到臺東關山站</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://nilson1021.github.io/blog/post-1/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://nilson1021.github.io/blog/post-1/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
   </channel>
