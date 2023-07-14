@@ -1,16 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Photos on Nilson&#39;s Murmur</title>
+    <title>Photos on Nilson&#39;s  murmur</title>
     <link>https://nilson1021.github.io/tags/photos/</link>
-    <description>Recent content in Photos on Nilson&#39;s Murmur</description>
+    <description>Recent content in Photos on Nilson&#39;s  murmur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 02 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nilson1021.github.io/tags/photos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jul 2023 20:46:00 +0800</lastBuildDate><atom:link href="https://nilson1021.github.io/tags/photos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>東部旅行2</title>
+      <link>https://nilson1021.github.io/blog/travel1120624-25/</link>
+      <pubDate>Sat, 08 Jul 2023 20:46:00 +0800</pubDate>
+      
+      <guid>https://nilson1021.github.io/blog/travel1120624-25/</guid>
+      <description>東部旅行2 1120624
+本日行程最主要就是要去遠雄海洋公園玩
+聽TAXI的司機說，今天的人潮比較少了，前兩天的人潮多到樂園的停車場排不下
+到了現場的第一站，就跑去看海獅的表演
+現場的座位是滿座的狀態，雖說是人比前2天少，但我還是覺得人好多
+看完表演後，就去最頂看另一場舞台劇【奇妙海洋慶典】的表演(順便吹冷氣)
+地點在整個樂園的最上方，有接駁小車跟纜車可以搭到上面，但是排隊人潮眾多，我選擇徒步走上去
+上面這2隻獅子雕像很合我的眼
+看完舞台表演【奇妙海洋慶典】後，就搭纜車往回走。雖然恐高，但一個人能獨坐纜車還是覺得很棒，風景還不錯，海也有5種顏色(看不出來是因為手機畫質不好+圖片被壓縮過)</description>
+    </item>
+    
     <item>
       <title>東部旅行</title>
       <link>https://nilson1021.github.io/blog/travel1120622-25/</link>
-      <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nilson1021.github.io/blog/travel1120622-25/</guid>
       <description>東部旅行 這次到東部旅遊的起意非常臨時。
@@ -20,15 +37,6 @@
 By the way這個網站的出現，跟突然想去東部流浪的原因一樣莫名其妙，等過段時間後，就會拿掉。
 1120622
 早上搭最早班的區間從宜蘭到花蓮，再轉搭到臺東關山站</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://nilson1021.github.io/blog/post-1/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://nilson1021.github.io/blog/post-1/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
   </channel>
