@@ -2,10 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nilson1021.github.io/blog/meno/</loc>
-    <lastmod>2023-07-12T20:07:47+08:00</lastmod>
-  </url><url>
     <loc>https://nilson1021.github.io/categories/</loc>
+    <lastmod>2023-08-23T20:46:00+08:00</lastmod>
+  </url><url>
+    <loc>https://nilson1021.github.io/</loc>
+    <lastmod>2023-08-23T20:46:00+08:00</lastmod>
+  </url><url>
+    <loc>https://nilson1021.github.io/tags/photos/</loc>
+    <lastmod>2023-08-23T20:46:00+08:00</lastmod>
+  </url><url>
+    <loc>https://nilson1021.github.io/tags/</loc>
+    <lastmod>2023-08-23T20:46:00+08:00</lastmod>
+  </url><url>
+    <loc>https://nilson1021.github.io/categories/%E7%B4%80%E9%8C%84/</loc>
+    <lastmod>2023-08-23T20:46:00+08:00</lastmod>
+  </url><url>
+    <loc>https://nilson1021.github.io/blog/record1120823/</loc>
+    <lastmod>2023-08-23T20:46:00+08:00</lastmod>
+  </url><url>
+    <loc>https://nilson1021.github.io/blog/meno/</loc>
     <lastmod>2023-07-12T20:07:47+08:00</lastmod>
   </url><url>
     <loc>https://nilson1021.github.io/tags/game/</loc>
@@ -14,17 +29,8 @@
     <loc>https://nilson1021.github.io/categories/game/</loc>
     <lastmod>2023-07-12T20:07:47+08:00</lastmod>
   </url><url>
-    <loc>https://nilson1021.github.io/</loc>
-    <lastmod>2023-07-12T20:07:47+08:00</lastmod>
-  </url><url>
-    <loc>https://nilson1021.github.io/tags/</loc>
-    <lastmod>2023-07-12T20:07:47+08:00</lastmod>
-  </url><url>
     <loc>https://nilson1021.github.io/about/</loc>
     <lastmod>2023-07-10T18:49:23+08:00</lastmod>
-  </url><url>
-    <loc>https://nilson1021.github.io/tags/photos/</loc>
-    <lastmod>2023-07-08T20:46:00+08:00</lastmod>
   </url><url>
     <loc>https://nilson1021.github.io/categories/%E6%97%85%E8%A1%8C/</loc>
     <lastmod>2023-07-08T20:46:00+08:00</lastmod>
@@ -36,12 +42,6 @@
     <lastmod>2023-07-08T20:46:00+08:00</lastmod>
   </url><url>
     <loc>https://nilson1021.github.io/blog/travel1120622-25/</loc>
-    <lastmod>2023-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nilson1021.github.io/categories/%E7%B4%80%E9%8C%84/</loc>
-    <lastmod>2023-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nilson1021.github.io/blog/record1120823/</loc>
     <lastmod>2023-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nilson1021.github.io/blog/</loc>
